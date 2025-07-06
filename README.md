@@ -10,7 +10,7 @@ The Data Analysis Project deals with E- Commerce Analytic solutions to Amazon pl
 The primary source of data used is Amazon case study.csv and this is an open source data that can be freely downloaded from an open source such as Amazon product pages and LMS
 
 ### Tools Used
-- Ms Excel for Data Cleaning [Download here](https.//www.microsoft.com)
+- Ms Excel for Data Cleaning [Download here](https://www.microsoft.com)
      - for Data Collection
      - for Data Cleaning
      - for Data Analysis
