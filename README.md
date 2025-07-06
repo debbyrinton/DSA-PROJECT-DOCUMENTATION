@@ -6,8 +6,16 @@ This is where i my portfolio building for data analysis track project powered by
 ### Project Overview
 The Data Analysis Project deals with E- Commerce Analytic solutions to Amazon platform. By analyzing product and customer review data to generate insights that can guide product improvements, marketing strategies, and customer engagement.
 
+### Objectives
+ - Analyze patterns in customer reviews and ratings.
+ - Identify key areas of product improvement.
+
 ### Data Sources
 The primary source of data used is Amazon case study.csv and this is an open source data that can be freely downloaded from an open source such as Amazon product pages and LMS
+
+### Features
+- Visual charts representing customer sentiment and ratings
+- Pivot tables for categorical analysis (e.g., by ratings, reviews, product category, discount, price range bucket)
 
 ### Tools Used
 - Ms Excel for Data Cleaning [Download here](https://www.microsoft.com)
@@ -29,6 +37,12 @@ EDA involved the exploring of the data to answer some questions about the Data s
 - Product Category with highest discount
 - Top 5 products in terms of rating and number of reviews combined
 - what is the total number of unique products per price range bucket
+
+ ### Data Analysis
+
+ This is where we include some basic items of code such as calculated columns and pivot table used during analysis
+
+ ### Analysis
 
 
 
