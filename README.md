@@ -15,7 +15,20 @@ The primary source of data used is Amazon case study.csv and this is an open sou
      - for Data Cleaning
      - for Data Analysis
         1. Calculated Columns
-        2. Summarization (Pivot table)  
+        2. Summarization (Pivot table)
+   
+     ### Data Cleaning and Preparation
+
+ In the initial phase of the Data cleaning and preparation, we perform the following actions;
+1. Data loading and Inspection
+2. Handling missing variables
+3. Data cleaning and formatting
+
+### Exploratory Data Analysis
+EDA involved the exploring of the data to answer some questions about the Data such as;
+- Product Category with highest discount
+- Top 5 products in terms of rating and number of reviews combined
+- what is the total number of unique products per price range bucket
 
 
 
