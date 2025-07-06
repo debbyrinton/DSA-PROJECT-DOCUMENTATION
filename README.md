@@ -44,6 +44,8 @@ EDA involved the exploring of the data to answer some questions about the Data s
 
  ### Analysis
 
+[Download Amazon Case Study Excel File] (https://github.com/debbyrinton/DSA-PROJECT-DOCUMENTATION/blob/main/Amazon%20case%20study.xlsx)
+
 
 
 
