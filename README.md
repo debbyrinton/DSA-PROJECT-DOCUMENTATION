@@ -1,5 +1,5 @@
 # DSA-PROJECT-DOCUMENTATION
-This is where i my portfolio building for data analysis track project powered by the Incubator Hub.
+This is where i start my portfolio building for data analysis track project powered by the Incubator Hub.
 
 ## Project Topic: Amazon Product Review Analysis
 
@@ -18,7 +18,7 @@ The primary source of data used is Amazon case study.csv and this is an open sou
 - Pivot tables for categorical analysis (e.g., by ratings, reviews, product category, discount, price range bucket)
 
 ### Tools Used
-- Ms Excel for Data Cleaning [Download here](https://www.microsoft.com)
+- Ms Excel for Data Cleaning [Download here](https://Amazon%20case%20study.xlsx)
      - for Data Collection
      - for Data Cleaning
      - for Data Analysis
@@ -45,6 +45,11 @@ EDA involved the exploring of the data to answer some questions about the Data s
  ### Analysis
 
 [Download Amazon Case Study Excel File] (https://github.com/debbyrinton/DSA-PROJECT-DOCUMENTATION/blob/main/Amazon%20case%20study.xlsx)
+
+### Findings/ Result
+After analyzing a dataset of Amazon case study, several key insights were uncovered:
+  - **Relationship between ratings and level of discount**
+     1. The majority of ratings with higher discount has more reviews which shows customer's satisfaction.
 
 
 
